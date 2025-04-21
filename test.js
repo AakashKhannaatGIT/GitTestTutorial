@@ -1,2 +1,2 @@
-console.log("Git Hub version 5");
-console.log("Hello world 5");
+console.log("Git Hub version 6");
+console.log("Hello world 6");
